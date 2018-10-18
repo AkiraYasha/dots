@@ -1,0 +1,9 @@
+[user]
+  name = Dobie Wollert
+  email = dobie.wollert@bamtechmedia.com
+
+[credential]
+  helper = osxkeychain
+
+[url "git@github.bamtech.co:"]
+	insteadOf = bamtech:
